@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for a Full Time **- Software Engineering or a Data Science Job in USA**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/aryan-mehta](https://github.com/aryan-mehta)
-
 - 💬 Ask me about **Python, Flask, MongoDB, React, Vue, JavaScript, Web Development**
 
 - 📫 How to reach me **amehta64@asu.edu**

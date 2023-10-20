@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amehta64@asu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZA62iPiGFAJEaaNohHCtWg0EX2ycASoc/view?usp=share_link](https://drive.google.com/file/d/1ZA62iPiGFAJEaaNohHCtWg0EX2ycASoc/view?usp=share_link)
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1ZA62iPiGFAJEaaNohHCtWg0EX2ycASoc/view?usp=share_link](https://drive.google.com/file/d/1ZA62iPiGFAJEaaNohHCtWg0EX2ycASoc/view?usp=share_link"> Resume </a>
 
 - ⚡ Fun fact **I have a reputation for being the slowest eater, I never get angry, and you'll always find me with a smile on my face! 😊🍽️ #PositiveVibes #AlwaysSmiling**
 
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-mehta&show_icons=true&locale=en&layout=compact" alt="aryan-mehta" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aryan-mehta&show_icons=true&locale=en" alt="aryan-mehta" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aryan-mehta&show_icons=true&locale=en" alt="aryan-mehta" /></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mehta&" alt="aryan-mehta" /></p>
+<p><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mehta&" alt="aryan-mehta" /></center></p>

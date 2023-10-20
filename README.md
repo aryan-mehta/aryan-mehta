@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for a Full Time **- Software Engineering or a Data Science Job in USA**
 
-- 💬 Ask me about **Python, Flask, MongoDB, React, Vue, JavaScript, Web Development**
+- 💬 Ask me about **Python, Flask, MongoDB, React, Vue, JavaScript, REST APIs, Web Development, Software Development Processes, and Data Science concepts.**
 
 - 📫 How to reach me **amehta64@asu.edu**
 
